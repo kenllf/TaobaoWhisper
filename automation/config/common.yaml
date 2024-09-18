@@ -1,0 +1,17 @@
+# 服务位置
+service_location: D:\software\ChromeDriver\chromedriver-win64\chromedriver-win64\chromedriver.exe
+
+# chrome 调试地址
+debugger_address: localhost:9222/devtools/browser/6b6ee018-3366-4372-a148-4c09f35a8a5f
+
+# 站点
+site: https://www.taobao.com/
+
+# 搜索关键词
+search_keyword: 手机
+
+# 发送内容
+send_content: 你好
+
+# 最大浏览页数
+max_pages: 10
